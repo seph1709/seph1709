@@ -1,8 +1,7 @@
 ## Hi there 👋
 + 📖 I'm currently a student studying computer engineering at our university.
 + 🔎 I love exploring new things.
-+ 👀 I love watching anime too.
-+ 😄 Pronouns: he/him
++ 👨🏻‍💻 I'm currently developing cross platform apps using flutter.
 <!--
 **seph1709/seph1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
