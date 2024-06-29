@@ -1,5 +1,5 @@
-## Hi there 👋
-+ 📖 I'm currently a student studying computer engineering at our university.
+# 💫 About Me :
++ 📖 I'm currently a student studying computer engineering.
 + 🔎 I love exploring new things.
 + 👨🏻‍💻 I'm currently developing cross platform apps using flutter.
 <!--
