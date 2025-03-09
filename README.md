@@ -4,7 +4,10 @@
 
 - 💬 Ask me about **React, Flutter**
 
+
 - 📫 How to reach me **josephmaynite99@gmail.com**
+  
+- 👨‍💻 CPE student
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
