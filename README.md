@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning **full stack web development**
 
 - 💬 Ask me about **React, Flutter**
-
-
-- 📫 How to reach me **josephmaynite99@gmail.com**
   
 - 👨‍💻 CPE student
 
