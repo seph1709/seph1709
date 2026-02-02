@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 💬 Ask me about **React, Flutter**
+<!-- - 💬 Ask me about **React, Flutter** -->
   
 - 👨‍💻 CPE student
 
