@@ -1,8 +1,8 @@
-<h3 align="center">A passionate mobile developer from Philippines</h3>
+<h3 align="center">A passionate software developer from Philippines</h3>
 
-- 🌱 I’m currently learning **full stack web development**
+<!-- -- 🌱 I’m currently learning **full stack web development**  -->
 
-<!-- - 💬 Ask me about **React, Flutter** -->
+- 💬 Ask me about **React, Flutter**
   
 - 👨‍💻 CPE student
 
