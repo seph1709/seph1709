@@ -1,4 +1,4 @@
-<h3 align="center">A passionate software developer from Philippines</h3>
+<h3 align="center">A passionate Software Engineer from Philippines</h3>
 
 <!-- -- 🌱 I’m currently learning **full stack web development**  -->
 
