@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="terminal.svg" alt="Terminal" width="740"/>
+  <img src="dev-life.svg" alt="A Day in a Developer's Life" width="740"/>
 </div>
 
 <br/>
