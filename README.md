@@ -37,7 +37,7 @@
 
 ## 🌐 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0969da?style=for-the-badge&logo=googlechrome&logoColor=white)](https://josephmaynite.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0969da?style=for-the-badge&logo=googlechrome&logoColor=white)](https://josephmaynite.com/)
 [![Email](https://img.shields.io/badge/Gmail-f6f8fa?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:josephmaynite04@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-f6f8fa?style=for-the-badge&logo=tiktok&logoColor=1f2328)](https://tiktok.com/@joseph.maynite.dev)
 
