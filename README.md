@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+a+Full-Stack+Developer;Flutter+%26+React+Enthusiast+%F0%9F%9A%80;Turning+ideas+into+products+%F0%9F%92%A1;Open+to+new+opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+a+Full-Stack+Developer;Flutter+%26+React+Enthusiast+%F0%9F%9A%80;Turning+ideas+into+products+%F0%9F%92%A1;Open+to+new+opportunities+%F0%9F%8C%9F" alt="Typing SVG"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=seph1709&color=0969da&style=flat-square&label=PROFILE+VIEWS) ![Followers](https://img.shields.io/github/followers/seph1709?style=flat-square&color=0969da&label=Followers&logo=github&logoColor=white) ![Stars](https://img.shields.io/github/stars/seph1709?style=flat-square&color=0969da&label=Stars&logo=github&logoColor=white&affiliations=OWNER)
+<img src="https://komarev.com/ghpvc/?username=seph1709&color=0969da&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/seph1709?style=flat-square&color=0969da&label=Followers&logo=github&logoColor=white" alt="Followers"/> <img src="https://img.shields.io/github/stars/seph1709?style=flat-square&color=0969da&label=Stars&logo=github&logoColor=white&affiliations=OWNER" alt="Stars"/>
 
 </div>
 
