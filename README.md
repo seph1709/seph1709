@@ -8,27 +8,18 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="dev-life.svg" alt="A Day in a Developer's Life" width="740"/>
-</div>
-
-<br/>
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seph1709&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328&border_color=d0d7de&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seph1709&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=1f2328&border_color=d0d7de&langs_count=8"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=seph1709&theme=default&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=bc4c00&currStreakLabel=0969da"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seph1709/seph1709/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seph1709/seph1709/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seph1709/seph1709/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
@@ -42,19 +33,7 @@
 <br/>
 <br/>
 
-<div align="center">
 
-## 🐍 Snake eating my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seph1709/seph1709/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seph1709/seph1709/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seph1709/seph1709/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br/>
 
 <div align="center">
 
