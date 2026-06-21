@@ -1,13 +1,112 @@
-<h3 align="center">A passionate Software Engineer from Philippines</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Joseph%20Maynite&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C%20Software%20Developer%20%2F%20%3E&descAlignY=60&descSize=22&descColor=58A6FF" width="100%"/>
 
-# 💫 About Me:
-🔭 I’m currently working on my personal project<br>👯 I’m looking to collaborate on any of my repo<br>🤝 I’m looking for help with any of my project<br>🌱 I’m currently learning new technologies<br>💬 Ask me about Flutter and ReactJs<br>⚡ Fun fact just a person who loves coding :)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+a+Full-Stack+Developer;Flutter+%26+React+Enthusiast+%F0%9F%9A%80;Turning+ideas+into+products+%F0%9F%92%A1;Open+to+new+opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-## 🌐 Socials:
- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@joseph.maynite.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josephmaynite04@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=googlechrome&logoColor=white)](https://josephmaynite.vercel.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=seph1709&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat&logo=livewire&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+```bash
+┌─────────────────────────────────────────────────────────────────────┐
+│  seph@dev:~$ whoami                                                  │
+│  ❯ Joseph Maynite — Software Developer from 🇵🇭 Philippines          │
+│                                                                      │
+│  seph@dev:~$ cat status.txt                                          │
+│  ❯ 🟢 Actively seeking Software Developer roles                      │
+│                                                                      │
+│  seph@dev:~$ ls -la skills/                                          │
+│  ❯ Flutter/   React/   Next.js/   Laravel/   TypeScript/             │
+│  ❯ Node.js/   Python/  Supabase/  TailwindCSS/   Git/               │
+│                                                                      │
+│  seph@dev:~$ git log --oneline                                       │
+│  ❯ 🚀 feat: exploring exciting new opportunities                     │
+│  ❯ 💡 feat: mastering new technologies daily                         │
+│  ❯ ☕ refactor: optimized morning coffee workflow                    │
+│  ❯ 🐛 fix: resolved life's merge conflicts                           │
+│  ❯ 🎯 init: embarked on software developer journey                   │
+│                                                                      │
+│  seph@dev:~$ echo $MOTTO                                             │
+│  ❯ "Build things that matter. Ship code that works."                 │
+│                                                                      │
+│  seph@dev:~$ █                                                       │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seph1709&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seph1709&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=seph1709&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,typescript,javascript,nodejs,laravel,php,python,tailwind,supabase,prisma,git,github,vscode,figma&theme=dark&perline=9"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=seph1709&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seph1709&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&area_color=1e3a5f" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🐍 Snake eating my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seph1709/seph1709/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seph1709/seph1709/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seph1709/seph1709/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🌐 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://josephmaynite.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephmaynite04@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@joseph.maynite.dev)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
