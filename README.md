@@ -1,13 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,50:0550ae,100:0969da&height=200&section=header&text=Joseph%20Maynite&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%7C%20React%20%7C%20Node.js&descAlignY=58&descSize=18&descColor=cae8ff" width="100%"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+a+Full-Stack+Developer;Flutter+%26+React+Enthusiast+%F0%9F%9A%80;Turning+ideas+into+products+%F0%9F%92%A1;Open+to+new+opportunities+%F0%9F%8C%9F" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Hello+World+%F0%9F%91%8B;I'm+a+Full-Stack+Developer;Flutter+%26+React+Enthusiast+%F0%9F%9A%80;Turning+ideas+into+products+%F0%9F%92%A1;Open+to+new+opportunities+%F0%9F%8C%9F" alt="Typing SVG"/>
 
 <img src="https://komarev.com/ghpvc/?username=seph1709&color=0969da&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/seph1709?style=flat-square&color=0969da&label=Followers&logo=github&logoColor=white" alt="Followers"/> <img src="https://img.shields.io/github/stars/seph1709?style=flat-square&color=0969da&label=Stars&logo=github&logoColor=white&affiliations=OWNER" alt="Stars"/>
 
 </div>
-
 
 <div align="center">
 
