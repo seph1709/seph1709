@@ -1,12 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 310" width="740" height="310" role="img" aria-label="Terminal">
   <defs>
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#0969da" flood-opacity="0.12"/>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
+    <linearGradient id="runnerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0969da" stop-opacity="0"/>
+      <stop offset="40%"  stop-color="#0969da" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
   </defs>
 
-  <!-- Window -->
-  <rect width="740" height="310" rx="12" fill="#ffffff" filter="url(#shadow)" stroke="#d0d7de" stroke-width="1.5"/>
+  <!-- Window background -->
+  <rect width="740" height="310" rx="12" fill="#ffffff"/>
+
+  <!-- Static subtle border -->
+  <rect x="1" y="1" width="738" height="308" rx="12" fill="none" stroke="#d0d7de" stroke-width="1.5"/>
+
+  <!-- Animated running light border — perimeter ≈ 2079px -->
+  <rect x="1" y="1" width="738" height="308" rx="12" fill="none"
+        stroke="#0969da" stroke-width="2.5"
+        stroke-dasharray="180 1900"
+        filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="2080" to="0" dur="4s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+
+  <!-- Second runner, offset by half — creates a chasing pair -->
+  <rect x="1" y="1" width="738" height="308" rx="12" fill="none"
+        stroke="#58a6ff" stroke-width="1.5"
+        stroke-dasharray="80 2000"
+        stroke-opacity="0.6"
+        filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="2080" to="0" dur="4s" begin="2s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
 
   <!-- Title bar -->
   <rect width="740" height="44" rx="12" fill="#f6f8fa"/>
