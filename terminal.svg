@@ -1,18 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 310" width="740" height="310" role="img" aria-label="Terminal">
-  <!-- Window shadow -->
   <defs>
-    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
-      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.4"/>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#0969da" flood-opacity="0.12"/>
     </filter>
   </defs>
 
-  <!-- Window background -->
-  <rect width="740" height="310" rx="12" fill="#0d1117" filter="url(#shadow)" stroke="#30363d" stroke-width="1"/>
+  <!-- Window -->
+  <rect width="740" height="310" rx="12" fill="#ffffff" filter="url(#shadow)" stroke="#d0d7de" stroke-width="1.5"/>
 
   <!-- Title bar -->
-  <rect width="740" height="44" rx="12" fill="#161b22"/>
-  <rect y="24" width="740" height="20" fill="#161b22"/>
-  <line x1="0" y1="44" x2="740" y2="44" stroke="#30363d" stroke-width="1"/>
+  <rect width="740" height="44" rx="12" fill="#f6f8fa"/>
+  <rect y="24" width="740" height="20" fill="#f6f8fa"/>
+  <line x1="0" y1="44" x2="740" y2="44" stroke="#d0d7de" stroke-width="1"/>
 
   <!-- Traffic lights -->
   <circle cx="22" cy="22" r="7" fill="#ff5f57"/>
@@ -20,49 +19,47 @@
   <circle cx="66" cy="22" r="7" fill="#28c840"/>
 
   <!-- Window title -->
-  <text x="370" y="27" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">seph@dev: ~</text>
-
-  <!-- === TERMINAL CONTENT === -->
+  <text x="370" y="27" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#57606a" text-anchor="middle" dominant-baseline="middle">seph@dev: ~</text>
 
   <!-- whoami -->
   <text y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5">
-    <tspan x="20" fill="#58a6ff">seph@dev</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#3fb950">~</tspan><tspan fill="#e6edf3">$ whoami</tspan>
+    <tspan x="20" fill="#0969da">seph@dev</tspan><tspan fill="#57606a">:</tspan><tspan fill="#1a7f37">~</tspan><tspan fill="#1f2328">$ whoami</tspan>
   </text>
-  <text x="20" y="96" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">Joseph Maynite  |  Software Developer  |  Philippines</text>
+  <text x="20" y="96" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#1f2328">Joseph Maynite  |  Software Developer  |  Philippines</text>
 
   <!-- status -->
   <text y="122" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5">
-    <tspan x="20" fill="#58a6ff">seph@dev</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#3fb950">~</tspan><tspan fill="#e6edf3">$ cat status.txt</tspan>
+    <tspan x="20" fill="#0969da">seph@dev</tspan><tspan fill="#57606a">:</tspan><tspan fill="#1a7f37">~</tspan><tspan fill="#1f2328">$ cat status.txt</tspan>
   </text>
-  <text x="20" y="142" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#3fb950">[ OPEN TO WORK ]  Actively seeking Software Developer roles</text>
+  <text x="20" y="142" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#1a7f37">[ OPEN TO WORK ]  Actively seeking Software Developer roles</text>
 
   <!-- ls skills -->
   <text y="168" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5">
-    <tspan x="20" fill="#58a6ff">seph@dev</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#3fb950">~</tspan><tspan fill="#e6edf3">$ ls skills/</tspan>
+    <tspan x="20" fill="#0969da">seph@dev</tspan><tspan fill="#57606a">:</tspan><tspan fill="#1a7f37">~</tspan><tspan fill="#1f2328">$ ls skills/</tspan>
   </text>
   <text x="20" y="188" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5">
-    <tspan fill="#79c0ff">Flutter  </tspan><tspan fill="#79c0ff">React  </tspan><tspan fill="#79c0ff">Next.js  </tspan><tspan fill="#79c0ff">Laravel  </tspan><tspan fill="#79c0ff">TypeScript  </tspan><tspan fill="#79c0ff">Node.js  </tspan><tspan fill="#79c0ff">Supabase</tspan>
+    <tspan fill="#0969da">Flutter  </tspan><tspan fill="#0969da">React  </tspan><tspan fill="#0969da">Next.js  </tspan><tspan fill="#0969da">Laravel  </tspan><tspan fill="#0969da">TypeScript  </tspan><tspan fill="#0969da">Node.js  </tspan><tspan fill="#0969da">Supabase</tspan>
   </text>
 
   <!-- git log -->
   <text y="214" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5">
-    <tspan x="20" fill="#58a6ff">seph@dev</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#3fb950">~</tspan><tspan fill="#e6edf3">$ git log --oneline</tspan>
+    <tspan x="20" fill="#0969da">seph@dev</tspan><tspan fill="#57606a">:</tspan><tspan fill="#1a7f37">~</tspan><tspan fill="#1f2328">$ git log --oneline</tspan>
   </text>
   <text x="20" y="232" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5">
-    <tspan fill="#f0883e">a3b2c1d</tspan><tspan fill="#e6edf3">  feat: exploring exciting new opportunities</tspan>
+    <tspan fill="#953800">a3b2c1d</tspan><tspan fill="#1f2328">  feat: exploring exciting new opportunities</tspan>
   </text>
   <text x="20" y="250" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5">
-    <tspan fill="#f0883e">7e8f9g0</tspan><tspan fill="#e6edf3">  feat: mastering new technologies daily</tspan>
+    <tspan fill="#953800">7e8f9g0</tspan><tspan fill="#1f2328">  feat: mastering new technologies daily</tspan>
   </text>
   <text x="20" y="268" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5">
-    <tspan fill="#f0883e">1h2i3j4</tspan><tspan fill="#e6edf3">  refactor: optimized the morning coffee workflow</tspan>
+    <tspan fill="#953800">1h2i3j4</tspan><tspan fill="#1f2328">  refactor: optimized the morning coffee workflow</tspan>
   </text>
 
-  <!-- prompt with blinking cursor -->
+  <!-- Prompt + blinking cursor -->
   <text y="294" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5">
-    <tspan x="20" fill="#58a6ff">seph@dev</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#3fb950">~</tspan><tspan fill="#e6edf3">$ </tspan>
+    <tspan x="20" fill="#0969da">seph@dev</tspan><tspan fill="#57606a">:</tspan><tspan fill="#1a7f37">~</tspan><tspan fill="#1f2328">$ </tspan>
   </text>
-  <rect x="152" y="281" width="8.5" height="15" fill="#e6edf3">
+  <rect x="152" y="281" width="8.5" height="15" fill="#0969da">
     <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
   </rect>
 </svg>
