@@ -40,36 +40,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=seph1709&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-<a href="https://github.com/seph1709/rotakey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seph1709&repo=rotakey&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328&border_color=d0d7de" />
-</a>
-<a href="https://github.com/seph1709/devvault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seph1709&repo=devvault&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328&border_color=d0d7de" />
-</a>
-<a href="https://github.com/seph1709/contact-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seph1709&repo=contact-management-system&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328&border_color=d0d7de" />
-</a>
-<a href="https://github.com/seph1709/eg-cart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seph1709&repo=eg-cart&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=1f2328&border_color=d0d7de" />
-</a>
-
-</div>
-
 <br/>
 
 <div align="center">
